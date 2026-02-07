@@ -4,6 +4,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/react-expensive-calculation-memo)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A focused **React performance demo** that illustrates **expensive computations**, **re-renders**, and how `useMemo` prevents unnecessary recalculation when unrelated state changes.
@@ -15,6 +16,16 @@ This project is intentionally simple and **educational**, designed to clearly sh
 ## Live Demo
 
 🔗 https://react-expensive-calculation-memo.vercel.app
+
+---
+
+## Deploymnet
+
+This project is automatically deployed using Vercel with GitHub integration.
+
+- Every push to `main` triggers a production deployment
+- Pull requests generate preview deployments
+- Build, optimization, and hosting are handled by Vercel
 
 ---
 
