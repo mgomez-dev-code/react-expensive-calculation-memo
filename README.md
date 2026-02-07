@@ -19,7 +19,7 @@ This project is intentionally simple and **educational**, designed to clearly sh
 
 ---
 
-## Deploymnet
+## Deployment
 
 This project is automatically deployed using Vercel with GitHub integration.
 
